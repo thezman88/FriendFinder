@@ -10,7 +10,7 @@ module.exports = function(app){
   });
 
   //a USE route to home page
-  app.use(function (req, res) {
+  app.get("*", function (req, res) {
     res.sendFile(path.join(__dirname + '/../public/home.html'));
   });
 };
