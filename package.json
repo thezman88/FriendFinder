@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/thezman88/FriendFinder/issues"
   },
-  "homepage": "https://github.com/thezman88/FriendFinder#readme"
+  "homepage": "https://github.com/thezman88/FriendFinder#readme",
+  "dependencies": {
+    "start": "^5.1.0"
+  }
 }
