@@ -18,6 +18,8 @@ for(let i=0; i<friendStorage.length; i++){
       }
 ```
 
+Once the most compatable friend has been found the result is a displayed in a modal pop-up.
+
   
 
 
